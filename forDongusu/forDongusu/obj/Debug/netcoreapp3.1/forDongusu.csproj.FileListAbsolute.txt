@@ -1,0 +1,13 @@
+C:\Users\elado\source\repos\forDongusu\forDongusu\bin\Debug\netcoreapp3.1\forDongusu.exe
+C:\Users\elado\source\repos\forDongusu\forDongusu\bin\Debug\netcoreapp3.1\forDongusu.deps.json
+C:\Users\elado\source\repos\forDongusu\forDongusu\bin\Debug\netcoreapp3.1\forDongusu.runtimeconfig.json
+C:\Users\elado\source\repos\forDongusu\forDongusu\bin\Debug\netcoreapp3.1\forDongusu.runtimeconfig.dev.json
+C:\Users\elado\source\repos\forDongusu\forDongusu\bin\Debug\netcoreapp3.1\forDongusu.dll
+C:\Users\elado\source\repos\forDongusu\forDongusu\bin\Debug\netcoreapp3.1\forDongusu.pdb
+C:\Users\elado\source\repos\forDongusu\forDongusu\obj\Debug\netcoreapp3.1\forDongusu.csproj.AssemblyReference.cache
+C:\Users\elado\source\repos\forDongusu\forDongusu\obj\Debug\netcoreapp3.1\forDongusu.AssemblyInfoInputs.cache
+C:\Users\elado\source\repos\forDongusu\forDongusu\obj\Debug\netcoreapp3.1\forDongusu.AssemblyInfo.cs
+C:\Users\elado\source\repos\forDongusu\forDongusu\obj\Debug\netcoreapp3.1\forDongusu.csproj.CoreCompileInputs.cache
+C:\Users\elado\source\repos\forDongusu\forDongusu\obj\Debug\netcoreapp3.1\forDongusu.dll
+C:\Users\elado\source\repos\forDongusu\forDongusu\obj\Debug\netcoreapp3.1\forDongusu.pdb
+C:\Users\elado\source\repos\forDongusu\forDongusu\obj\Debug\netcoreapp3.1\forDongusu.genruntimeconfig.cache
